@@ -1,0 +1,15 @@
+.c{
+    background-color: rgb(136, 165, 30);
+    border:4px solid gray;
+    margin: 20px;
+    padding: 10px;
+}
+.img{
+    height: 150px;
+}
+.name{
+    color: blueviolet;
+}
+.coatOfArms{
+    color: rgb(84, 4, 100);
+}
